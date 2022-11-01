@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">contact-rename</string>
+    <string name="title_activity_change_by_hour">ChangeByHourActivity</string>
+</resources>

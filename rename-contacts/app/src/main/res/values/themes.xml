@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Contactrename" parent="android:Theme.Material.Light.NoActionBar">
+<!--        <item name="android:statusBarColor">#FFF</item>-->
+
+
+    </style>
+
+    <style name="Theme.app.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_image7309</item>
+        <item name="postSplashScreenTheme">@style/Theme.Contactrename</item>
+
+    </style>
+
+</resources>
